@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d98bae2b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.80a9a922.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.80a9a922.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.60d61488.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.60d61488.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.d0dd671a.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d0dd671a.js.map",
-    "static/js/2.6f7fd7b1.chunk.js": "/react-portfolio/static/js/2.6f7fd7b1.chunk.js",
-    "static/js/2.6f7fd7b1.chunk.js.map": "/react-portfolio/static/js/2.6f7fd7b1.chunk.js.map",
+    "static/js/2.36795dc0.chunk.js": "/react-portfolio/static/js/2.36795dc0.chunk.js",
+    "static/js/2.36795dc0.chunk.js.map": "/react-portfolio/static/js/2.36795dc0.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.5c1df98e6d8e83fd2483aa30cb07e906.js": "/react-portfolio/precache-manifest.5c1df98e6d8e83fd2483aa30cb07e906.js",
+    "precache-manifest.0ff4e12a13fdfac25c37bdb37446cb02.js": "/react-portfolio/precache-manifest.0ff4e12a13fdfac25c37bdb37446cb02.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.d98bae2b.chunk.css.map": "/react-portfolio/static/css/main.d98bae2b.chunk.css.map",
-    "static/js/2.6f7fd7b1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6f7fd7b1.chunk.js.LICENSE.txt"
+    "static/js/2.36795dc0.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.36795dc0.chunk.js.LICENSE.txt",
+    "static/media/bandifi.png": "/react-portfolio/static/media/bandifi.c7d20260.png",
+    "static/media/code-query.png": "/react-portfolio/static/media/code-query.991cd50c.png",
+    "static/media/katiepic.jpg": "/react-portfolio/static/media/katiepic.6f6a6a95.jpg",
+    "static/media/memory-cards.png": "/react-portfolio/static/media/memory-cards.09742fb7.png",
+    "static/media/qseum.png": "/react-portfolio/static/media/qseum.c2d8a3cb.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.23159354.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d0dd671a.js",
-    "static/js/2.6f7fd7b1.chunk.js",
+    "static/js/2.36795dc0.chunk.js",
     "static/css/main.d98bae2b.chunk.css",
-    "static/js/main.80a9a922.chunk.js"
+    "static/js/main.60d61488.chunk.js"
   ]
 }
