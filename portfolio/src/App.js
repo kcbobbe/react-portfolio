@@ -12,8 +12,8 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <Route exact path ="/" component={Main} />
-        <Route exact path ="/projects" component={Projects}/>
+        <Route path ="/" component={Main} />
+        <Route path ="/projects" component={Projects}/>
         <Footer />
       </div>
     </Router>

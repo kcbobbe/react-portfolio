@@ -33,7 +33,7 @@ class Footer extends React.Component {
                   style={styles.whitetext}>email</i></a>
             </div>
             <div className="col">
-              <a href="https://www.linkedin.com/in/kcbobbe/"><i class="material-icons"
+              <a href="https://www.linkedin.com/in/kcbobbe/"><i className="material-icons"
                   style={styles.whitetext}>phone</i></a>
             </div>
           </div>
